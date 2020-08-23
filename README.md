@@ -1,6 +1,6 @@
-Chrome Extension; Look for the book in the library(dgulib, gangbuk-lib) before buying it at the bookstore(kyobo)
+Chrome Extension; Buy Or Borrow
 ==============================================================================================================
-##### 책 사기 전에 도서관에 구비되어 있는지 편하게 확인하기 위해 만들어본 익스텐션
+##### 온라인 서점에서 책 구매하기 전에, 도서관에 구비되어 있는지 편하게 확인하기 위해 만들어본 익스텐션
 
 ### 1. 교보문고 사이트 접속
 
