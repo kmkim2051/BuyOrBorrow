@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Buy or Borrow",
+  "version": "1.0",
+
+  "description": "Look for the book in the library(dgulib, gangbuk-lib) before buying it at the bookstore(kyobo)",
+  "permissions": ["tabs", "*://www.kyobobook.co.kr/*"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.kyobobook.co.kr/*"],
+      "js": ["background.js"]
+    }
+  ]
+}
